@@ -1,4 +1,4 @@
-import errorImg from "./assets/images/no_found.png";
+import errorImg from "../assets/images/no_found.png";
 
 let data = [
     {
